@@ -1,0 +1,6 @@
+__pycache__/*
+output_images/*
+pytorch/*
+*.pt
+modules/__pycache__/*
+Sketch_Anime/*
